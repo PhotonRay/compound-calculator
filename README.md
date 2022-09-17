@@ -1,5 +1,12 @@
 # compound-calculator
 Only result of all inputs
+
+
+
+
+
+
+
 using Microsoft.VisualBasic;
 using System.Windows.Forms;
 class InputDialog {
